@@ -1,6 +1,6 @@
 ---
 title: "Access Control Lab 7-User ID controlled by request parameter"
-date: 2025-05-30
+date: 2025-05-29
 categories: [Writeups]
 tags: [Access Control, Portswigger]
 ---
